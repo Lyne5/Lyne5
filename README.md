@@ -3,8 +3,7 @@
 -  I’m currently learning coding with python
 -  I’m looking to collaborate on many upgrades
 -  How to reach me: 0775520561
--  Pronouns: ...
--  Fun fact: ...
+-  Unfortunately l always aim for the best
 
 <!---
 Lyne5/Lyne5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
